@@ -1,0 +1,42 @@
+ html, body,table,td,tr {
+                font-size: 11px !important;
+                /*height: 100% !important;*/
+                color: #333 !important;
+                font-family: "Helvetica Neue",Helvetica,Arial,sans-serif !important;
+				overflow-x: hidden;
+            }
+			table {
+    display: table;
+    border-collapse: collapse;
+    border-spacing: 2px;
+    border-color: grey;
+
+}
+			
+			TR th {
+    background-color: #EEEEEE;
+	    line-height: 1.42857;
+    color: #848484;
+    padding: 8px;
+    display: table-cell;
+}
+
+tbody th {
+    background-color: #008080;
+	 color: #fff;
+	 text-align: center;
+}
+div#mainContainer {
+	height: 75px; 
+	padding-left: 10px;
+	
+}
+div#logocontainer {
+margin-top:20px;
+margin-left:-50px;
+ font-size: 20px;
+ float: left;
+}
+div#headingcontainer {
+	color:#7e7e7e;text-align:center;
+}
